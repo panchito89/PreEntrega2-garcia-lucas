@@ -1,0 +1,108 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1,5;
+    font-family: sans-serif;
+    background-image: url(/img/fondo\ cocina.jpg);
+    background-repeat: no-repeat;
+    background-size:cover
+   
+}
+ul{
+    list-style: none;
+}
+
+.menu{
+    color:gold;
+    text-decoration: none;
+    display: block;
+    padding: 1px 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    background-color:black;
+    float: left;
+    
+}
+.bife{
+    margin-left: 25cm;
+    position:absolute;
+    right: 50px;
+    top: 200px;
+    background-color: black;
+    padding: 20px;
+}
+.tartarev{
+    margin-left: 25cm;
+    position:absolute;
+    right: 400px;
+    top: 200px;
+    background-color: black;
+    padding: 20px;
+
+}
+.sorrentinos{
+    margin-left: 25cm;
+    position:absolute;
+    right: 1220px;
+    top: 200px;
+    background-color: black;
+    padding: 20px;
+
+
+}
+.vianda1{
+    margin-left: 25cm;
+    position:absolute;
+    right: 1750px;
+    top: 200px;
+    background-color: black;
+    padding: 20px;
+
+
+}
+.fideos{
+    margin-left: 25cm;
+    position:absolute;
+    right: 1540px;
+    top: 600px;
+    background-color: black;
+    padding: 20px;
+
+}
+
+.ensaladasv{
+    margin-left: 25cm;
+    position:absolute;
+    right: 1100px;
+    top: 600px;
+    background-color: black;
+    padding: 20px;
+
+}
+.arroz{
+    margin-left: 25cm;
+    position:absolute;
+    right: 560px;
+    top: 600px;
+    background-color: black;
+    padding: 20px;
+
+}
+.lentejas{
+    margin-left: 25cm;
+    position:absolute;
+    right: 50px;
+    top: 600px;
+    background-color: black;
+    padding: 20px;
+
+}
+.anim{
+    transition-duration: 0.5s;
+}
+.anim:hover{
+    transform:scale(1.2);
+    padding: 10px;
+}.header-logo{
+    width: 100px;
+}

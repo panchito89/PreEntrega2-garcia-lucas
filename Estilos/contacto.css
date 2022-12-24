@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1,5;
+    font-family: 'Oswald',sans-serif;
+    background-image: url(/img/viandas\ varias.jpg);
+    box-sizing: border-box;
+}
+
+
+ul{
+    list-style: none;
+
+}
+
+.menu{
+    color:gold;
+    text-decoration: none;
+    display: block;
+    padding: 1px 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    background-color:black;
+    float: left;
+    
+}
+
+.form{
+
+    width: 400px;
+    background-color: orange;
+    padding: 30px;
+    margin: auto;
+    margin-top: 250px;
+    border-radius: 4px;
+    font-size:medium;
+    font-style: oblique;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    }
+
+    .logosredes{
+        margin-left: 25.5cm;
+    
+        padding: 10px;
+    }
+    .header-logo{
+        width: 100px;
+    }
+
+
+
+
+
+
+    

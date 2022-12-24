@@ -1,0 +1,91 @@
+@font-face {
+    font-family: Oswald;
+    src: url(../Estilos/BreeSerif-Regular.ttf);
+}
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 1,5;
+    font-family: sans-serif;;
+    background-image: url(/img/viandas\ varias.jpg);
+    box-sizing: border-box;
+}
+.menu{
+    color:gold;
+    text-decoration: none;
+    display: block;
+    padding: 1px 28px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    background-color:black;
+    float: left;
+    
+}
+ul{
+    list-style: none;
+
+}
+h2{
+    color:black;
+    background-color:rgb(255, 145, 0);
+    margin: 200px;
+    padding: 15px;
+    margin-right: 65%;
+    margin-left: 0%;
+    
+    
+}.parrafo{
+    background-color: rgba(255, 166, 0,1);
+    font-size: 20px;
+    font-family: Oswald;
+}
+
+.fotomenu{
+    background-color: black;
+    padding: 25px;
+}
+
+.menuinfantil{
+    
+    background-color: black;
+    padding: 25px;
+}
+
+h3{
+    
+    color: black;
+    background-color: yellow;
+    padding: 5px;
+    font-family:sans-serif;
+    font-weight: 200;
+    font-style:normal;
+}
+
+
+.logos{
+    margin-left: 25.5cm;
+    padding: 10px;
+}
+.anim{
+    transition-duration: 0.5s;
+}
+.anim:hover{
+    transform:scale(1.5);
+    padding: 10px;
+}.header-logo{
+    width: 100px;
+}
+@media (max-width: 992px){
+    .pie{
+        display: none;
+    }
+    
+}
+.imagenfluida{
+    max-width: 100%;
+    height: auto;
+}
+@media only screen and (min-width:992px){
+    .imagenfluida{
+    max-width: 600px;}
+}
