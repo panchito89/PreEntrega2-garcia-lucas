@@ -3,7 +3,7 @@ body{
     padding: 0;
     line-height: 1,5;
     font-family: sans-serif;
-    background-image: url(/img/fondo\ cocina.jpg);
+    background-image: url(../img/fondo\ cocina.jpg);
     background-repeat: no-repeat;
     background-size:cover
    

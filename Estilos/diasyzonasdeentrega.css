@@ -3,7 +3,7 @@ body{
     padding: 0;
     line-height: 1,5;
     font-family: sans-serif;;
-    background-image: url(/img/viandas\ varias.jpg);
+    background-image: url(../img/viandas_varias.jpg);
     box-sizing: border-box;
 }
 ul{
@@ -43,3 +43,6 @@ p{
         padding: 10px;
 }
 
+.header-logo{
+    width: 100px;
+}
